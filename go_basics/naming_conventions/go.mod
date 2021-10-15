@@ -1,3 +1,3 @@
-module naming_conventions
+module go_basics/naming_conventions
 
 go 1.17

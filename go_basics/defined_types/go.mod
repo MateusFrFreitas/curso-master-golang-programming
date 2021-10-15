@@ -1,3 +1,3 @@
-module defined_types
+module go_basics/defined_types
 
 go 1.17
