@@ -1,0 +1,3 @@
+Go is an open source project and we welcome contributions from the community.
+To get started, read these contribution guidelines for information on design, testing, and our code review process.
+Check the tracker for open issues that interest you. Those labeled help wanted are particularly in need of outside help.
