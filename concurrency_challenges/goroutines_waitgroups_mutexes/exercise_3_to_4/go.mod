@@ -1,0 +1,3 @@
+module concurrency_challenges/goroutines_waitgroups_mutexes/exercise_3_to_4
+
+go 1.17
